@@ -1,0 +1,32 @@
+
+p
+{
+background: url(http://cdn.wallpapersafari.com/89/62/meiEkV.jpg) no-repeat top left;
+width:400px;
+height:25px;
+padding-top:3px;
+padding-left:10px;
+border: 1px solid;
+border-radius: 5px;
+}
+
+form
+{
+	background:url(https://s-media-cache-ak0.pinimg.com/originals/fc/7a/88/fc7a88bc6b2ef12de736309062339e6a.jpg);
+}
+h5
+{
+font-family:sanserif;
+font-size:20px;
+color:#FBFCFC;
+}
+button
+{
+background-color: black;
+text-align:center;
+border: 1px solid;
+border-radius: 5px;
+color:white;
+float: 3px right;
+}
+ 
